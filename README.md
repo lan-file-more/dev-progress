@@ -44,3 +44,6 @@ pc端(后期) 添加 消息, 参考 Dell connect huawei 多屏协同
 1. ~~文件左右滑动显示更新弹窗 勾选了不显示也无效~~
 2. ~~注释了些代码 notifyListeners 可能无法刷新~~
 3. ~~优化provider~~
+
+![](https://raw.githubusercontent.com/lan-file-more/dev-progress/main/ADEB3A0CAF32FE4B4234858689494305.jpg)
+![](https://raw.githubusercontent.com/lan-file-more/dev-progress/main/08818E81A81854CD83E840CCEF989D92.jpg)
