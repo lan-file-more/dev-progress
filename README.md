@@ -1,5 +1,22 @@
+2020/11/9
+1. 文件菜单选中 文件item不更新
+2. 开发游戏控制 editor
+<br />
+<img width="150" src="./1.jpg"/>
+
+2020/11/6
+1. 文件管理器 返回上级目录 快速 或者 卡顿的时候
+会偶现的导致 页面不发生交换, 路径多退栈 
+
+2020/11/5
+1. 添加wavelock
+
+2020/11/4
+1. ~~修复installed app 左右滑动问题~~
+2. 添加quick settings 
+
 2020/10/28
-1. 改用友盟的错误报告
+1. ~~改用友盟的错误报告~~
 
 2020/10/26
 1. 沙盒安装还需要优化
@@ -22,7 +39,7 @@ pc端(后期) 添加 消息, 参考 Dell connect huawei 多屏协同
 2020/10/15
 
 1. ~~日志体积太大 导致无法发送 email 改用 flutter bugly~~
-2. 剩余容量显示错误
+2. ~~剩余容量显示错误~~
 
 2020/10/12 [bug]
 
@@ -45,5 +62,5 @@ pc端(后期) 添加 消息, 参考 Dell connect huawei 多屏协同
 2. ~~注释了些代码 notifyListeners 可能无法刷新~~
 3. ~~优化provider~~
 
-![](https://raw.githubusercontent.com/lan-file-more/dev-progress/main/ADEB3A0CAF32FE4B4234858689494305.jpg)
-![](https://raw.githubusercontent.com/lan-file-more/dev-progress/main/08818E81A81854CD83E840CCEF989D92.jpg)
+<img width="150" src="./2.jpg"/>
+<img width="150" src="./3.jpg"/>
